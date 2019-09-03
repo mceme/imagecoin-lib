@@ -1,8 +1,8 @@
 {
-  "name": "@axerunners/axecore-lib",
+  "name": "@mceme/imagecoin-lib",
   "version": "0.17.8",
   "description": "A pure and powerful JavaScript AXE library.",
-  "author": "AXErunners <info@axerunners.com>",
+  "author": "mceme <walletimg@gmail.com>",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
@@ -32,12 +32,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/axerunners/axecore-lib.git"
+    "url": "https://github.com/mceme/imagecoin-lib.git"
   },
   "bugs": {
-    "url": "https://github.com/axerunners/axecore-lib/issues"
+    "url": "https://github.com/mceme/imagecoin-lib/issues"
   },
-  "homepage": "https://github.com/axerunners/axecore-lib",
+  "homepage": "https://github.com/mceme/imagecoin-lib",
   "browser": {
     "request": "browser-request"
   },
