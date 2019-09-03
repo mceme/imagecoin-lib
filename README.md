@@ -1,4 +1,4 @@
-# AXEcore Library
+# ImageCoincore Library
 
 [![Build Status](https://img.shields.io/travis/axerunners/axecore-lib.svg?branch=master)](https://travis-ci.org/axerunners/axecore-lib)
 [![NPM Package](https://img.shields.io/npm/v/@axerunners/axecore-lib.svg)](https://www.npmjs.org/package/@axerunners/axecore-lib)
