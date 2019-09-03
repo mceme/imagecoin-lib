@@ -9,13 +9,13 @@ var bitcore = module.exports;
 bitcore.version = 'v' + require('./package.json').version;
 bitcore.versionGuard = function(version) {
   if (version !== undefined) {
-    var message = 'More than one instance of axecore-lib found. ' +
-      'Please make sure that you are not mixing instances of classes of the different versions of axecore.';
+    var message = 'More than one instance of imagecoin-lib found. ' +
+      'Please make sure that you are not mixing instances of classes of the different versions of imagecoin.';
     console.warn(message);
   }
 };
-bitcore.versionGuard(global._axecore);
-global._axecore = bitcore.version;
+bitcore.versionGuard(global._imagecoincore);
+global._imagecoincore = bitcore.version;
 
 // crypto
 bitcore.crypto = {};
