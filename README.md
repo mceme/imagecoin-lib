@@ -19,7 +19,7 @@ AXE is a powerful new peer-to-peer platform for the next generation of financial
 ### NodeJS
 
 ```
-npm install @mceme/imagecoin-lib
+npm install mceme/imagecoin-lib
 ```
 
 ### Browser
