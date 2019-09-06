@@ -5,7 +5,7 @@
 
 > A pure and powerful JavaScript AXE library.
 
-AXE is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the AXE network allows for highly resilient AXE infrastructure, and the developer community needs reliable, open-source tools to implement AXE apps and services.
+IMG is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the IMG network allows for highly resilient IMG infrastructure, and the developer community needs reliable, open-source tools to implement IMG apps and services.
 
 ## Table of Contents
 - [Install](#install)
