@@ -64,8 +64,8 @@ Some functionality is implemented as a module that can be installed separately:
 ### Development & Tests
 
 ```sh
-git clone https://github.com/axerunners/axecore-lib
-cd axecore-lib
+git clone https://github.com/mceme/imagecoin-lib
+cd imagecoin-lib
 npm install
 ```
 
