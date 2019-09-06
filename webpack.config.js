@@ -15,16 +15,16 @@ const commonJSConfig = {
 const rawConfig = Object.assign({}, commonJSConfig, {
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'axecore-lib.js',
-    library: 'axecore',
+    filename: 'imagecoincore-lib.js',
+    library: 'imagecoincore',
     libraryTarget: 'umd',
   }
 })
 const uglifiedConfig = Object.assign({}, commonJSConfig, {
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'axecore-lib.min.js',
-    library: 'axecore',
+    filename: 'imagecoincore-lib.min.js',
+    library: 'imagecoincore',
     libraryTarget: 'umd',
   },
   plugins: [
