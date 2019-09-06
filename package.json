@@ -49,7 +49,8 @@
     "elliptic": "=6.4.1",
     "inherits": "=2.0.1",
     "lodash": "^4.17.15",
-    "unorm": "^1.4.1"
+    "unorm": "^1.4.1",
+    "urequire": "^0.7.0-beta.25"
   },
   "devDependencies": {
     "brfs": "^2.0.1",
