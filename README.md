@@ -120,3 +120,4 @@ Copyright 2013-2017 BitPay, Inc. Bitcore is a trademark maintained by BitPay, In
 Copyright 2016-2017 The Dash Foundation, Inc.  
 Copyright 2017-2018 Dash Core Group, Inc.  
 Copyright 2018 AXErunners.  
+Copyright 2019 ImageCoin.  
