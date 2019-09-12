@@ -1,4 +1,4 @@
-# Axecore examples
+# IMGcore examples
 
 
 ## Create and Save a Private Key
