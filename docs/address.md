@@ -1,5 +1,5 @@
-# Axe Address
-Represents a Axe address. Addresses are the most popular way to make Axe transactions. See [the Axe documentation](https://axe-docs.github.io/en/glossary/address) for technical background information.
+# IMG Address
+Represents a IMG address. Addresses are the most popular way to make Axe transactions. See [the IMG documentation](https://axe-docs.github.io/en/glossary/address) for technical background information.
 
 ## Instantiate an Address
 To be able to receive some funds an address is needed, but in order to spend them a private key is necessary. Please take a look at the [`PrivateKey`](privatekey.md) docs for more information about exporting and saving a key.
