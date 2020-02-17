@@ -3,7 +3,7 @@
 [![Build Status](https://img.shields.io/travis/axerunners/axecore-lib.svg?branch=master)](https://travis-ci.org/axerunners/axecore-lib)
 [![NPM Package](https://img.shields.io/npm/v/@axerunners/axecore-lib.svg)](https://www.npmjs.org/package/@axerunners/axecore-lib)
 
-> A pure and powerful JavaScript AXE library.
+> A pure and powerful JavaScript IMG library.
 
 IMG is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the IMG network allows for highly resilient IMG infrastructure, and the developer community needs reliable, open-source tools to implement IMG apps and services.
 
