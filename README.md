@@ -21,6 +21,12 @@ IMG is a powerful new peer-to-peer platform for the next generation of financial
 ```
 npm install mceme/imagecoin-lib
 ```
+```
+git clone https://github.com/mceme/imagecoin-lib
+cd imagecoin-lib
+npm install
+```
+
 
 ### Browser
 
